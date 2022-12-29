@@ -10,7 +10,7 @@
 /* verão Tablet */
 @media screen and (min-width:769px) and (max-width:1024px) {
   body {
-    background-image: linear-gradient(to top, #49a09d, #822c5b);
+    background-image: linear-gradient(to bottom, #78b1bd, #822c5b);
   }
   section#login {
     width: 80vw;
@@ -30,7 +30,7 @@
 
 @media screen and (min-width:1025px) {
   body {
-    background-image: linear-gradient(to bottom, #97deeb, #822c5b);
+    background-image: linear-gradient(to bottom, #78b1bd, #822c5b);
   }
   section#login {
     width: 950px;
