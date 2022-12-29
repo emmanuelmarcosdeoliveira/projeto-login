@@ -30,21 +30,28 @@
 
 @media screen and (min-width:1025px) {
   body {
-    background-image: linear-gradient(to bottom, #49a09d, #822c5b);
+    background-image: linear-gradient(to bottom, #97deeb, #822c5b);
   }
   section#login {
     width: 950px;
   }
 section#login > div#imagem {
-  float: left;
+  float: right;
   width: 50%;
 height: 100%;
 }
 section#login > .formulario {
-  float: right;
+  float: left;
 width: 50%;
 }
 
+.formulario > h1 {
+  font-size: 2em;
+}
+
+.formulario > p {
+  font-size: 1.4em;
+}
 
 
 }

@@ -36,7 +36,7 @@ left: 50%;
 transform: translate(-50%, -50%);
 overflow: hidden;
 box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
-transition: widht .3s, height .3s;
+transition: widht .5s, height .5s;
 transition-timing-function: ea;
 }
 
@@ -50,4 +50,14 @@ transition-timing-function: ea;
 section#login .formulario {
   display: block;
   padding: 10px;
+}
+
+.formulario > h1 {
+text-align: center;
+margin-bottom: 10px;
+
+}
+
+.formulario > p {
+  font-size: 0.8em;
 }
