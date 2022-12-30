@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/testegif.gif/468x300?text=App+Screenshot+Here)
+<img widht="470" height="300" scr="https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/testegif.gif">
