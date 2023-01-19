@@ -1,11 +1,11 @@
 ![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
-[Descrição](#projeto---android) | 
+[Descrição](#descrição) | 
 [Funcionalidades](#funcionalidades) |
-[Screenshot ou Gif](#gifscreenshot-do-projeto) |
-[Demostração](#demonstração) |
+[Screenshot ou Gif](#screenshots-ou-gif) |
+[Demostração](n#demonstração) |
 [Deploy](#deploy) |
 [Aprendizados](#aprendizados) |
-[Referencias](#referências) |
+[Referencias](#referência) |
 # Projeto - Responsivo
 ## Descrição:
 Nome |   Descrição
