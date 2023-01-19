@@ -9,7 +9,7 @@
 # Projeto - Responsivo
 ## Descrição:
 Nome |   Descrição
----- | -----------
+---- | ------------
 Login | Nesse exercício foi criado um arquivo base **HTML** e **CSS** aonde foi criado um **Formulário** aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
 ## Funcionalidades
 
