@@ -10,7 +10,7 @@
 ## Descrição:
 Nome |   Descrição
 ---- | ------------
-Login | Nesse exercício foi criado um arquivo base **HTML** e **CSS** aonde foi criado um **Formulário** aonde ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
+Login | Nesse exercício foi criado uma página com base **HTML** e **CSS** onde foi criado um **Formulário** que ele se **comporta** de forma diferente de acordo com o **tamanho da tela.**
 ## Funcionalidades
 
 - Responsividade
