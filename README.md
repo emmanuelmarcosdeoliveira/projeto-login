@@ -26,7 +26,7 @@ Login | Nesse exercício criei uma página com base **HTML** e **CSS** e dentro 
 ## Demonstração
 
 Clique no link para acessar. <br>
- [Projeto - login ](http://www.projeto-login-liard.vercel.app/)
+ [Projeto - login ](https://projeto-login-liard.vercel.app/)
 
 
 ## Deploy
@@ -34,7 +34,7 @@ Clique no link para acessar. <br>
 Para fazer o deploy desse projeto rode
 
 ```bash
- http://www.projeto-login-liard.vercel.app/
+ https://projeto-login-liard.vercel.app/
 ```
 
 
